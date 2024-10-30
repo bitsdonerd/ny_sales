@@ -7,7 +7,7 @@ list_of_locations = {
     'Manhattan': 1,
     'Bronx':2,
     'Brooklyn':3,
-    'Queens':4,
+    'Queens':4,  
     'Staten Island':5,
 }
 slider_size = [100, 500, 1000, 10000, 100000]
